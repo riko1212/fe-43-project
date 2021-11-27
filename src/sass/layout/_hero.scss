@@ -1,6 +1,16 @@
 .hero {
+  display: flex;
   width: 1200px;
   padding: 15px;
   margin: 0 auto;
   border: 1px solid tomato;
+}
+.name {
+  display: block;
+  padding: 15px;
+  margin: 0 auto;
+  font-size: 16px;
+  color: peru;
+  font-weight: 700;
+  letter-spacing: 0.06em;
 }
